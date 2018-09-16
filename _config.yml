@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: TechOptions
+layout_spectrum: 0.15272041177377105
+typography_spectrum: 0.6277565932832658
+color:
+  brandStrength: 0.3128914120607078
+  lightness: 0.4256082319188863
+  saturation: 0.6206221648026258
+  rhythmicContrast: 0.9088070013094693
+  brandColors:
+    - '#FFFFFF'
+    - '#BA653B'
+    - '#018583'
+    - '#F1AA6B'
+    - '#A61C79'
+content: []
+title: Technology For Easier Living
+description: ''
+github: true
+purpose:
+  - type: contact
+    url: 'mailto:alt247res@gmail.com'
+    label: Free Consult!
