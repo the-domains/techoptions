@@ -27,3 +27,6 @@ purpose:
   - type: contact
     url: 'mailto:alt247res@gmail.com'
     label: Free Consult!
+  - type: internal
+    label: Your Free Gift
+    item: 03bc110a-1541-4ab8-b8fe-3ea06cd177ff
